@@ -1,5 +1,5 @@
 # Pandemic 
-
+![p1](https://github.com/FaithfulZhening/Pandemic/blob/master/Login.png)
 ## Introduction
 
 [Pandemic](https://www.zmangames.com/en/games/pandemic/) is a online version of Pandemic, a cooperative board game in which players work as a team to treat infections around the world while gathering resources for cures. 
@@ -9,7 +9,7 @@
 * [Bowen Tian](https://github.com/Bowen8888)
 * [Danning Yang](https://github.com/JimmyYang233)
 * [Shihang Zhu](https://github.com/nickszhu)
-* [Shuran Zheng](）
+* [Shuran Zheng](https://github.com/sszheng）
 * [Zhening Zhang](https://github.com/FaithfulZhening)
 
 ## Game Rule
