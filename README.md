@@ -9,7 +9,7 @@
 * [Bowen Tian](https://github.com/Bowen8888)
 * [Danning Yang](https://github.com/JimmyYang233)
 * [Shihang Zhu](https://github.com/nickszhu)
-* [Shuran Zheng](https://github.com/sszheng）
+* [Shuran Zheng](https://github.com/sszheng)
 * [Zhening Zhang](https://github.com/FaithfulZhening)
 
 ## Game Rule
