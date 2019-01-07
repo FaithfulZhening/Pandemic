@@ -22,5 +22,6 @@
 
 [Unity3d](https://unity3d.com/cn)
 
-## Running
-Download and unzip this project. Open the project in Unity. 
+## Setup
+Download and unzip this project. Open the project in Unity.
+In Unity, substite default scene with Assets/Scenes/FirstUI. Go to File => Build and run
