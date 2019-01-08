@@ -11,6 +11,7 @@
 * [Shihang Zhu](https://github.com/nickszhu)
 * [Shuran Zheng](https://github.com/sszheng)
 * [Zhening Zhang](https://github.com/FaithfulZhening)
+* Special thanks to [Di Yang](diyang.weebly.com) for UI designing
 
 ## Game Rule
 
